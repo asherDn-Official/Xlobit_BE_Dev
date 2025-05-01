@@ -1,0 +1,8 @@
+{"request":{"type":"GENERATE_NEW_WALLET_ADDRESS","uid":"BDASwN8SlZcoJZ7O9AxuBrKNuJs1","coinCode":"bitcoin"},"response":{"code":"ERR_HTTP_INVALID_HEADER_VALUE"},"logDate":"2024-06-12T07:51:40.089Z"}
+
+{"request":{"type":"GENERATE_NEW_WALLET_ADDRESS","uid":"BDASwN8SlZcoJZ7O9AxuBrKNuJs1","coinCode":"bitcoin"},"response":{"code":"ERR_HTTP_INVALID_HEADER_VALUE"},"logDate":"2024-06-12T07:53:12.177Z"}
+
+{"request":{"type":"GENERATE_NEW_WALLET_ADDRESS","uid":"BDASwN8SlZcoJZ7O9AxuBrKNuJs1","coinCode":"bitcoin"},"response":{"code":"ERR_HTTP_INVALID_HEADER_VALUE"},"logDate":"2024-06-12T07:53:48.063Z"}
+
+{"request":{"type":"GENERATE_NEW_WALLET_ADDRESS","uid":"BDASwN8SlZcoJZ7O9AxuBrKNuJs1","coinCode":"bitcoin"},"response":{"apiVersion":"2023-04-25","requestId":"6669547a009c4ae5001d9d08","context":"userid_BDASwN8SlZcoJZ7O9AxuBrKNuJs1_ADDR","error":{"code":"invalid_data","message":"The data provided seems to be invalid.","details":[{"attribute":"network","message":"Possible values are mainnet, testnet, mordor, nile, sepolia"}]}},"logDate":"2024-06-12T07:55:38.846Z"}
+
